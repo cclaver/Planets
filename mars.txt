@@ -1,0 +1,4 @@
+This is mars
+It has 2 moons
+It is red
+it is small
